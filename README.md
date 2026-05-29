@@ -1,2 +1,2 @@
-# maragogi-porturimo
+# maragogi-porturismo
 landing page 
